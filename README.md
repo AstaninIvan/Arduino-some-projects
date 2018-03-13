@@ -5,7 +5,7 @@
 
 10 - CS
 
-5V - CSS
+5V - VCC
 
 GND - GND
 
